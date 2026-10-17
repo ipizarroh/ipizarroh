@@ -1,42 +1,47 @@
+
 # Ignacio Pizarro
 
-Industrial Engineer from Chile, interested in Business Intelligence, data analytics, management control, and the connection between technology and business operations.
+Ingeniero Civil Industrial de Chile, con interés profesional en Business Intelligence, analítica de datos, control de gestión y la integración de tecnología con procesos operacionales y empresariales.
 
-My professional background includes working with institutional databases, performance indicators, reporting, and operational management. I use Power BI, Excel, SQL, Python, and Power Query to analyze information, improve data quality, and support decision-making.
+Mi trayectoria profesional incluye experiencia en análisis de bases de datos institucionales, construcción de indicadores de desempeño, desarrollo de reportes y gestión operacional. Utilizo **Power BI, Excel avanzado, SQL, Python y Power Query** para analizar información, mejorar la calidad de los datos y apoyar la toma de decisiones.
 
-I'm particularly interested in understanding how a process works before trying to automate it.
+Mi enfoque consiste en comprender cómo funciona un proceso, identificar oportunidades de mejora y evaluar cómo la analítica y la automatización pueden aportar valor.
 
-## What I'm currently working on
+## Proyectos en desarrollo
 
 ### SSA Arauco — Performance & Commitments Control Tower 2026
 
-I'm developing an independent BI portfolio project based on Chile's public healthcare system, focused on the Servicio de Salud Arauco network.
+Actualmente desarrollo un proyecto independiente de Business Intelligence basado en información pública del sistema de salud chileno, enfocado en la red del **Servicio de Salud Arauco**.
 
-The project combines official public datasets with simulated management records to explore how healthcare indicators, performance gaps, and institutional commitments can be monitored.
+El proyecto combina fuentes de datos oficiales con registros de gestión simulados para explorar cómo monitorear indicadores sanitarios, identificar brechas de desempeño y realizar seguimiento de compromisos institucionales.
 
-I'm currently working on data discovery, source validation, and data quality. My goal is to build a reliable analytical foundation before moving into data modeling, KPIs, and dashboards.
+Actualmente trabajo en la exploración de datos, validación de fuentes y evaluación de calidad de la información. Mi objetivo es construir una base analítica confiable antes de avanzar hacia el modelamiento de datos, la definición de KPI y el desarrollo de dashboards.
 
-This is a personal project, not a system developed for or commissioned by the health service.
+**Este es un proyecto personal e independiente, no encargado ni desarrollado oficialmente para el Servicio de Salud Arauco.**
 
 ### ACCELERATE TOP SPORTS SpA
 
-I'm also building my own business, a sports retail company with a physical store in Santo Domingo, Chile.
+También participo en el desarrollo y gestión de **ACCELERATE TOP SPORTS SpA**, una empresa de comercialización de artículos deportivos con tienda física en Santo Domingo, Chile.
 
-Besides managing sales, costs, inventory, and operational activities, I'm working on the company's next stage: developing its digital presence, e-commerce capabilities, and the processes needed to support future growth.
+Además de gestionar ventas, costos, inventario y actividades operacionales, trabajo en la planificación de su siguiente etapa de crecimiento: desarrollar su presencia digital, implementar capacidades de comercio electrónico y fortalecer los procesos necesarios para su expansión.
 
-I'm approaching this as a structured business and technology project, using a Stage-Gate methodology to define requirements, evaluate alternatives, control costs, and make decisions before implementation.
+Abordo esta iniciativa como un proyecto integral de gestión y tecnología, utilizando una metodología **Stage-Gate** para definir requerimientos, evaluar alternativas, controlar costos y fundamentar decisiones antes de su implementación.
 
-The online platform is still in its planning and development process.
+La plataforma de comercio electrónico se encuentra actualmente en proceso de planificación y desarrollo.
 
-## Beyond these projects
+## Otras áreas de interés y desarrollo profesional
 
-I continue learning about data engineering practices, process automation, and practical applications of AI. My previous work with industrial maintenance datasets is also part of the technical experience I intend to document here.
+Continúo profundizando mis conocimientos en **ingeniería de datos, automatización de procesos y aplicaciones prácticas de inteligencia artificial**, especialmente en su integración con necesidades reales de gestión.
 
-I'm using GitHub to keep track of my work, document decisions, share what I learn, and gradually publish projects that I can explain and defend.
+Mi experiencia previa con bases de datos de mantenimiento industrial también forma parte de los antecedentes técnicos que busco documentar progresivamente en este espacio.
+
+Utilizo GitHub para organizar mis proyectos, documentar decisiones técnicas, compartir aprendizajes y publicar desarrollos que pueda explicar, reproducir y respaldar técnicamente.
+
+Mi objetivo es construir un portafolio que refleje tanto mi experiencia profesional como la evolución continua de mis competencias analíticas y tecnológicas.
 
 ---
 
-Based in Biobío, Chile  
-Open to opportunities in BI, Data Analytics, Management Control, and Operations
+**Ubicación:** Región del Biobío, Chile  
+**Intereses profesionales:** Business Intelligence · Análisis de Datos · Control de Gestión · Operaciones  
 
-Contact: ipizarroh1@outlook.com
+**Contacto:** [ipizarroh1@outlook.com](mailto:ipizarroh1@outlook.com)
