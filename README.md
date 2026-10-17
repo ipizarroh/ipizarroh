@@ -1,47 +1,27 @@
 
-# Ignacio Pizarro
-
-Ingeniero Civil Industrial de Chile, con interés profesional en Business Intelligence, analítica de datos, control de gestión y la integración de tecnología con procesos operacionales y empresariales.
-
-Mi trayectoria profesional incluye experiencia en análisis de bases de datos institucionales, construcción de indicadores de desempeño, desarrollo de reportes y gestión operacional. Utilizo **Power BI, Excel avanzado, SQL, Python y Power Query** para analizar información, mejorar la calidad de los datos y apoyar la toma de decisiones.
-
-Mi enfoque consiste en comprender cómo funciona un proceso, identificar oportunidades de mejora y evaluar cómo la analítica y la automatización pueden aportar valor.
-
-## Proyectos en desarrollo
-
 ### SSA Arauco — Performance & Commitments Control Tower 2026
 
-Actualmente desarrollo un proyecto independiente de Business Intelligence basado en información pública del sistema de salud chileno, enfocado en la red del **Servicio de Salud Arauco**.
+Desarrollo un proyecto independiente de **Business Intelligence y Control de Gestión Sanitario**, enfocado en la red del **Servicio de Salud Arauco**, con un análisis específico del Hospital Provincial Dr. Rafael Avaria Valenzuela de Curanilahue.
 
-El proyecto combina fuentes de datos oficiales con registros de gestión simulados para explorar cómo monitorear indicadores sanitarios, identificar brechas de desempeño y realizar seguimiento de compromisos institucionales.
+El objetivo es diseñar una solución analítica que integre información pública del sistema de salud chileno para facilitar el seguimiento de indicadores, identificar brechas de desempeño y explorar mecanismos de monitoreo de compromisos de gestión.
 
-Actualmente trabajo en la exploración de datos, validación de fuentes y evaluación de calidad de la información. Mi objetivo es construir una base analítica confiable antes de avanzar hacia el modelamiento de datos, la definición de KPI y el desarrollo de dashboards.
+El proyecto aborda el ciclo completo de una solución BI: desde la identificación y validación de fuentes hasta el modelamiento de datos, definición de indicadores, desarrollo de visualizaciones y evaluación de su utilidad para la toma de decisiones.
 
-**Este es un proyecto personal e independiente, no encargado ni desarrollado oficialmente para el Servicio de Salud Arauco.**
+**Avances técnicos desarrollados:**
 
-### ACCELERATE TOP SPORTS SpA
+- **Integración de datos:** recopilación, catalogación y análisis de fuentes oficiales, incluyendo registros REM20, establecimientos de salud e información presupuestaria y de gestión pública.
+- **Ingeniería y calidad de datos:** procesos de extracción, transformación, trazabilidad, validación de estructuras, control de duplicados y evaluación de consistencia.
+- **Modelamiento analítico:** construcción de un modelo semántico candidato con 9 tablas, relaciones definidas y separación de información pública, indicadores derivados y registros sintéticos.
+- **Power BI y DAX:** desarrollo incremental de un prototipo técnico con 11 medidas DAX candidatas, modelos TMDL y reglas de cálculo documentadas.
+- **Control de gestión:** diseño de indicadores con definiciones, criterios de comparabilidad, restricciones metodológicas y mecanismos propuestos para el seguimiento de brechas y compromisos.
+- **Validación y documentación:** pruebas de integridad, controles técnicos, gestión de versiones y metodología de desarrollo por etapas (Stage-Gate).
 
-También participo en el desarrollo y gestión de **ACCELERATE TOP SPORTS SpA**, una empresa de comercialización de artículos deportivos con tienda física en Santo Domingo, Chile.
+**Estado actual — Octubre 2026**
 
-Además de gestionar ventas, costos, inventario y actividades operacionales, trabajo en la planificación de su siguiente etapa de crecimiento: desarrollar su presencia digital, implementar capacidades de comercio electrónico y fortalecer los procesos necesarios para su expansión.
+El proyecto se encuentra en fase de **desarrollo y validación del modelo analítico y prototipo Power BI**. Ya se han completado etapas de levantamiento de requerimientos, análisis de fuentes, preparación de datos y diseño de indicadores.
 
-Abordo esta iniciativa como un proyecto integral de gestión y tecnología, utilizando una metodología **Stage-Gate** para definir requerimientos, evaluar alternativas, controlar costos y fundamentar decisiones antes de su implementación.
+Actualmente continúo trabajando en la consolidación de medidas DAX, validación de los modelos, desarrollo de visualizaciones y preparación de las funcionalidades de seguimiento de gestión.
 
-La plataforma de comercio electrónico se encuentra actualmente en proceso de planificación y desarrollo.
+Como línea de evolución futura, también estoy explorando el uso de **inteligencia artificial y recuperación de información mediante bases vectoriales** para facilitar consultas sobre documentación e indicadores con trazabilidad a sus fuentes.
 
-## Otras áreas de interés y desarrollo profesional
-
-Continúo profundizando mis conocimientos en **ingeniería de datos, automatización de procesos y aplicaciones prácticas de inteligencia artificial**, especialmente en su integración con necesidades reales de gestión.
-
-Mi experiencia previa con bases de datos de mantenimiento industrial también forma parte de los antecedentes técnicos que busco documentar progresivamente en este espacio.
-
-Utilizo GitHub para organizar mis proyectos, documentar decisiones técnicas, compartir aprendizajes y publicar desarrollos que pueda explicar, reproducir y respaldar técnicamente.
-
-Mi objetivo es construir un portafolio que refleje tanto mi experiencia profesional como la evolución continua de mis competencias analíticas y tecnológicas.
-
----
-
-**Ubicación:** Región del Biobío, Chile  
-**Intereses profesionales:** Business Intelligence · Análisis de Datos · Control de Gestión · Operaciones  
-
-**Contacto:** [ipizarroh1@outlook.com](mailto:ipizarroh1@outlook.com)
+**Naturaleza del proyecto:** iniciativa personal de investigación aplicada y desarrollo profesional. Utiliza información pública, cálculos derivados y datos sintéticos claramente diferenciados. No constituye un sistema oficial, contratado ni implementado por el Servicio de Salud Arauco.
