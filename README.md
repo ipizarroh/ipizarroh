@@ -9,9 +9,9 @@ Busco oportunidades en **BI, análisis de datos, control de gestión, planificac
 
 ## Hacia dónde me desarrollo
 
-Actualmente profundizo en desarrollo con Python, automatización e IA aplicada mediante proyectos personales como **ForestRAG**. Me interesa construir herramientas que ayuden a analistas y equipos operativos a consultar información, revisar inconsistencias y reducir tareas repetitivas.
+Uso la ingeniería industrial como base para desarrollar herramientas con IA aplicada. En ForestRAG combino análisis de datos, comprensión de procesos y experimentación para estudiar cómo un equipo podría consultar documentos y comprobar de dónde sale una respuesta.
 
-Mi objetivo de largo plazo es desarrollar **sistemas de IA empresariales útiles, seguros y confiables**: agentes e integraciones con datos, APIs y procesos reales, con permisos acotados, evaluación y trazabilidad. Estoy construyendo estas competencias; la seguridad y confiabilidad orientan mi aprendizaje y las decisiones de diseño.
+Me interesa aplicar ese trabajo a tareas concretas de analistas y equipos operativos, como revisar antecedentes e inconsistencias. A largo plazo quiero integrar datos, APIs y procesos y desarrollar agentes con permisos acotados, evaluación y trazabilidad. Es una línea de aprendizaje y desarrollo que sigo construyendo.
 
 ## Experiencia y proyectos destacados
 
@@ -29,14 +29,15 @@ Administré la operación de un centro deportivo y desarrollé reportería para 
 
 [Repositorio y casos](https://github.com/ipizarroh/analitica-operacional-ghtop) · [Demostración interactiva](https://ipizarroh.github.io/analitica-operacional-ghtop/)
 
-### ForestRAG · Consulta documental con IA
-**Proyecto personal independiente · Prototipo en desarrollo**
+### ForestRAG · Inteligencia documental local
 
-Prototipo local en Python con extracción PDF, embeddings multilingües, búsqueda en SQLite y trazabilidad por fuente y página. El código publicado incluye pruebas y evaluación sobre un corpus público acotado.
+**Proyecto personal independiente · Prototipo y laboratorio de investigación aplicada**
 
-La recuperación muestra pasajes y fuentes; la generación real con LLM, los controles multiusuario y el despliegue público siguen pendientes. Documento controles iniciales y límites de seguridad. No representa una implementación empresarial ni trabajo oficial para ARAUCO.
+El prototipo público permite consultar texto autorizado, recuperar pasajes y revisar la fuente y la página. En laboratorio estudio extracción estructurada, recuperación y respaldo de afirmaciones. Aplico contratos de software, pruebas de seguridad, evaluación estadística y mediciones de recursos para decidir qué cambios vale la pena conservar.
 
-[Repositorio y demostración local](https://github.com/ipizarroh/forest-rag-asistente-documental) · [Evaluación](https://github.com/ipizarroh/forest-rag-asistente-documental/blob/main/docs/evaluacion.md) · [Seguridad y límites](https://github.com/ipizarroh/forest-rag-asistente-documental/blob/main/docs/seguridad.md)
+La integración con un modelo local y la calidad de las respuestas siguen en evaluación. El proyecto es independiente de ARAUCO y se desarrolla como parte de mi portafolio.
+
+[Repositorio y demostración](https://github.com/ipizarroh/forest-rag-asistente-documental) · [Metodología](https://github.com/ipizarroh/forest-rag-asistente-documental/blob/main/docs/FUNDAMENTOS_Y_METODOLOGIA.md) · [Estado y roadmap](https://github.com/ipizarroh/forest-rag-asistente-documental/blob/main/docs/ESTADO_Y_ROADMAP.md)
 
 ### SSA Arauco · Performance & Commitments Control Tower 2026
 **Proyecto personal independiente · En desarrollo y validación**
